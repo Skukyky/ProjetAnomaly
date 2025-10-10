@@ -33,6 +33,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
